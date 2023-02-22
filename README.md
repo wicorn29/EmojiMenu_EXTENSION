@@ -1,2 +1,2 @@
-# EmojiMenu_EXTENSION
+# EmojiMenu
 A WAY better emoji menu for chrome!
